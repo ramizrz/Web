@@ -1,0 +1,109 @@
+{
+	"basics":{
+		"email":"ask2ramiz@gmail.com",
+		"name":"Ramizraja H Zamadar",
+		"phone":"8850124679",
+		"summary":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"location":{
+			"city":"Mumbai",
+			"pinCode":"400058",
+			"region":"Mumbai Metropolitian Region(MMR)",
+			"state":"Maharashtra",
+			"country":"India",
+			"countryCode":"IN"
+		}
+	},
+	"education":[
+		{
+			"university":"Mumbai",
+			"course":"BE Computer",
+			"year":"2016",
+			"cgpa":"7.14",
+			"endDate":"2020"
+		}	
+	],
+	"skills":{
+		"languages":[
+			{
+				"name":"java",
+				"level":"Amatuer",
+				"rating":"6"
+			},
+			{
+				"name":"C",
+				"level":"Beginner",
+				"rating":"4"
+			},
+			{
+				"name":"python",
+				"level":"Amatuer",
+				"rating":"7"
+			},
+			{
+				"name":"PHP",
+				"level":"Beginner",
+				"rating":"5"
+			}
+		],
+		"OS":[
+			{
+				"name":"Windows",
+				"level":"Amatuer",
+				"rating":"6"
+			},
+			{
+				"name":"Linux",
+				"level":"Amatuer",
+				"rating":"7"
+			}
+		],
+		"Concept":[
+			{
+				"name":"DataStructure",
+				"level":"Amatuer",
+				"rating":"6"
+			},
+			{
+				"name":"OOPM",
+				"level":"Amatuer",
+				"rating":"5"
+			}
+		],
+		"Tools":[
+			{
+				"name":"phpmyadmin",
+				"level":"Amatuer",
+				"rating":"6"
+			}
+		]
+	},
+	"languages":[
+		{
+			"language":"English",
+			"fluency":"Amatuer"
+		},
+		{
+			"language":"Hindi",
+			"fluency":"Amatuer"
+		}
+	],
+	"interests":[
+		{
+			"name":"Football"
+		},
+		{
+			"name":"Cricket"
+		},
+		{
+			"name":"Programming"
+		},		
+	],
+	"projects":[
+	],
+	
+}

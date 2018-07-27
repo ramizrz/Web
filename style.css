@@ -1,0 +1,128 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 22pt;
+	box-sizing: border-box;
+}
+header > nav ul {
+	list-style: none;
+	background-color: grey;
+	text-align: center;
+}
+
+header >nav>ul li{
+	display: inline-block;
+	margin-left: 20px;
+	padding: 10px;
+}
+
+header >nav>ul li >a{
+	text-decoration: none;
+	color: black;
+}
+
+main{
+	margin: 10px
+}
+
+.mypic{
+	text-align: center;
+}
+
+.mypic img{
+	width: 25%;
+	border-radius: 20px dotted line;
+}
+footer{
+	margin: 0;
+	padding: 0;
+	font-size: 22pt;
+	box-sizing: border-box;
+	color: black;
+	position: relative;
+	bottom: 10;
+	width: 100%;
+	text-align: center;
+}
+
+.contact,.social{
+	position: relative;
+	float: left;
+	width: 48%;
+	margin-left: 2%;
+	border: 1px solid magenta;
+	padding: 10px;
+	border-radius: 4px;
+}
+
+.contact h3{
+	text-align: center;
+}
+
+.contact *{
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+.contact input[type="submit"]{
+	width: 150px;
+	display: block;
+	margin: 0 auto;
+	background-color: grey;
+	color: white;
+	border-radius: 5px;
+	border: 0;
+}
+
+.social h3{
+	text-align: center;
+}
+
+.social *{
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+.social a{
+	width: 80px;
+	display: block;
+	margin: 0 auto;
+	background-color: grey;
+	color: white;
+	border-radius: 5px;
+	border: 0;
+}
+
+.contact input[type="submit"]:hover{
+	opacity: 0.5;
+	color: black;
+}
+
+.gallery figure img{
+	width: 200px;
+	height: 200px;
+	border:1px solid black;
+}
+.gallery figure{
+	border :1px;
+}
+
+.gallery figure img{
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+}
+
+.gallery{
+	text-align: center;
+}
+
+.gallery figure{
+	display: inline-block;
+	border: 1px solid black;
+	position: relative;
+	padding: 5px;
+	margin: 10px;
+	text-align: center;
+	font-style: italic;
+}
