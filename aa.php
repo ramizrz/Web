@@ -16,7 +16,7 @@
     </head>
     <body>
 <?php
-require_once 'functions.php';
+require_once 'function.php';
 if($_POST){
     $rollno=  fix_rollno($_POST['rollno']);
     $name=  fix_name($_POST['sname']);
